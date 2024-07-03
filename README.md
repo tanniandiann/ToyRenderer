@@ -1,19 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ZeusYang/TinySoftRenderer">
-    <img src="images/logo.jpg" alt="Logo" height="200">
-  </a>
-  <h3 align="center">TinySoftRenderer</h3>
-<p align="center">
-<img src="images/license.svg">
-</p>
-  <p align="center">
-    A tiny soft-renderer built from scratch using C++ 11
-    <br />
-    <a href="https://github.com/ZeusYang/TinySoftRenderer/blob/master/images/demo.gif">View Demo</a>
-    <a href="https://github.com/ZeusYang/TinySoftRenderer/issues">Report Bug</a>
-  </p>
-
-
 ## About The Project
 
 The original intention of building such a 3D rendering system from scratch without any help of graphics library is to get a thorough understanding of the three-dimensional rendering process. 
